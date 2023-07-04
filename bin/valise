@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+# valise
+
+# 20230628
+# 0.0.0
+
+def cases
+  <<~CASES
+    camelCase
+    kebab-case
+    PascalCase
+    snake_case
+  CASES
+end
+
+def main
+  puts cases
+end
+
+main
