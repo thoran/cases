@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
-# valise
+# cases
 
-# 20230628
-# 0.0.0
+# 20230703
+# 0.0.1
 
 def cases
   <<~CASES
