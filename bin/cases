@@ -1,14 +1,16 @@
 #!/usr/bin/env ruby
 # cases
 
-# 20230703
-# 0.0.1
+# 20230927
+# 0.1.0
 
 def cases
   <<~CASES
     camelCase
     kebab-case
     PascalCase
+    SCREAMING-KEBAB-CASE
+    SCREAMING_SNAKE_CASE
     snake_case
   CASES
 end
